@@ -3,8 +3,7 @@
 
 ## 🚀 Deploy com 1 Clique
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/FUTURE_TEMPLATE_ID)
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/new?repository=https://github.com/saviojordani/gastos-familiares-railway)
 ## 🧾 Setup
 
 1. Configure as variáveis no painel Railway (use `.env.example` como base)
